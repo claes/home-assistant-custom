@@ -1,2 +1,2 @@
-FROM ghcr.io/home-assistant/home-assistant:2022.11.2
+FROM homeassistant/home-assistant:0.103.5
 RUN apk add pulseaudio-utils
